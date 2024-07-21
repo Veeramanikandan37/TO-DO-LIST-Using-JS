@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+}
+h1{
+    color: white;
+}
+button{
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+.add{
+    background-color: green;
+}
+.del,.del_all{
+    background-color: red;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+button{
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+ul{
+    list-style: none;
+    border: none;
+}
+li{
+    border: none;
+    padding:10px;
+    background-color: whitesmoke;
+    margin: 8px 20px;
+    width: 600px;
+    border-radius: 5px; 
+    float: left;
+}
+input{
+    padding: 10px;
+    width: 500px;
+    border-radius: 10px;
+}
+.tot{
+    background-color:purple;
+    padding: 20px;
+    margin: 10px;
+    width: 800px;
+    margin-left: 16%;
+} 
+.tot{
+    background-color:purple;
+    padding: 20px;
+}
+ul button{
+    margin: 10px;
+}
+#inl{
+    display: inline-block;
+}
